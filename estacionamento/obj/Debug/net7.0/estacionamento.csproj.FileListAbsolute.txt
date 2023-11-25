@@ -1,0 +1,4 @@
+E:\Microsoft VS Code\angula\estacionamento\obj\Debug\net7.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft VS Code\angula\estacionamento\obj\Debug\net7.0\estacionamento.AssemblyInfoInputs.cache
+E:\Microsoft VS Code\angula\estacionamento\obj\Debug\net7.0\estacionamento.AssemblyInfo.cs
+E:\Microsoft VS Code\angula\estacionamento\obj\Debug\net7.0\estacionamento.csproj.CoreCompileInputs.cache

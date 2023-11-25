@@ -1,0 +1,14 @@
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+E:\Microsoft VS Code\angula\estacionamento\trilha-net-fundamentos-desafio-main\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll

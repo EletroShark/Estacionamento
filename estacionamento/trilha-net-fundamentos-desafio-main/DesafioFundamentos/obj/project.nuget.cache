@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "77jE6TXF7khpBOb2rR05pCZgiBt8KtFLUd87ABWVtrzZZYi3FhP35jPvO1tbW8HQjLeEZ10TTxKK9V+ArQBXIQ==",
+  "success": true,
+  "projectFilePath": "E:\\Microsoft VS Code\\angula\\estacionamento\\trilha-net-fundamentos-desafio-main\\DesafioFundamentos\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iagor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\iagor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\iagor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\iagor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
